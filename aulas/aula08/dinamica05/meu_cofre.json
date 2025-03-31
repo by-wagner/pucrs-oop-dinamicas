@@ -1,0 +1,16 @@
+{
+  "moedas": [
+    {
+      "valor": 1,
+      "nome": "Real"
+    },
+    {
+      "valor": 0.5,
+      "nome": "Real"
+    },
+    {
+      "valor": 0.25,
+      "nome": "Real"
+    }
+  ]
+}
